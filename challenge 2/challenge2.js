@@ -5,3 +5,7 @@
 function greet(name) {
   return `Hello, ${name} how are you doing today?`;
 }
+
+//Explanation :
+
+// This problem wasn’t too difficult. I realized that I would be using string interpolation Once the question mentioned that I would have to pull the name from the argument and place it within the static string.

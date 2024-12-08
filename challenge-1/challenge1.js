@@ -12,3 +12,7 @@
 var stringToNumber = function (str) {
   return parseInt(str);
 };
+
+//Explanation:
+
+//For this problem it took me a bit longer due to me having to recall the method for it. Once I remembered the parseInt() method and how I could use it to transform a string into a number the rest was just a matter of remembering the
